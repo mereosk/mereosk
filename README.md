@@ -38,6 +38,8 @@
 #
 
 ### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/konstantinos-mereos-8706191bb/"><img align="left" src="https://raw.githubusercontent.com/mereosk/mereosk/main/images/linkedin.svg" alt="Konstantinos Mereos | LinkedIn" width="23px"/></a>
+<a href="https://www.instagram.com/kostasmereos/"><img align="left" src="https://raw.githubusercontent.com/mereosk/mereosk/main/images/instagram.svg" alt="Konstantinos Mereos | Instagram" width="23px"/></a>
 
 <!--
 **mereosk/mereosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
